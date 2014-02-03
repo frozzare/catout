@@ -1,4 +1,4 @@
-# Cat out
+# Catout
 
 1. `npm install -g catout`
 2. `catout`
