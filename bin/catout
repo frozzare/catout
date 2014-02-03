@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+
+[
+'',
+' /\\_/\\',
+'( o.o )',
+' > ^ <',
+'',
+' Meow!',
+''
+].forEach(function (l) {
+	console.log(l);
+});
